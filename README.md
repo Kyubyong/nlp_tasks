@@ -1,7 +1,6 @@
 # Natural Language Processing Tasks and References
 
 ## Coreference Resolution
-----
   * ****`DATA`**** link
 
 ## GEC
