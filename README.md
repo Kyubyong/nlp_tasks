@@ -5,7 +5,7 @@
 
 ## GEC
 ----
-  * See [Grammatical Error Correction](#grammatical-error-correction-(GEC))
+  * See [Grammatical Error Correction](#grammatical-error-correction-(gec))
 
 ## Grammatical Error Correction (GEC)
 ----
