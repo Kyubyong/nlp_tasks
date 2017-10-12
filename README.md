@@ -19,7 +19,7 @@
 ----
   * ****`DATA`**** link
 
-## Pinyin-To-Chinese Conversion
+## Pinyin-To-Chinese Conversion (PTC)
 ----
   * ****`PAPER`**** [Neural Network Language Model for Chinese Pinyin Input Method Engine](http://aclweb.org/anthology/Y15-1052)
   * ****`GITHUB`**** [Neural Chinese Transliterator](https://github.com/Kyubyong/neural_chinese_transliterator)
