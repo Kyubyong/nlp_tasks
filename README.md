@@ -5,7 +5,7 @@
 
 ## GEC
 ----
-  * See [Grammatical Error Correction](#pinyin-to-chinese-conversion-(ptc))
+  * See [Grammatical Error Correction](#pinyin-to-chinese-conversion)
 
 ## Grammatical Error Correction (GEC)
 ----
@@ -19,7 +19,7 @@
 ----
   * ****`DATA`**** link
 
-## Pinyin To Chinese Conversion (PTC)
+## Pinyin To Chinese Conversion
 ----
   * ****`PAPER`**** [Neural Network Language Model for Chinese Pinyin Input Method Engine](http://aclweb.org/anthology/Y15-1052)
   * ****`GITHUB`**** [Neural Chinese Transliterator](https://github.com/Kyubyong/neural_chinese_transliterator)
