@@ -26,7 +26,7 @@
 
 ## PTC
 ----
-* See [Pinyin-To-Chinese Conversion](#pinyin-to-chinese-conversion-(ptc))
+* See [Pinyin-To-Chinese Conversion](##pinyin-to-chinese-conversion-(ptc))
 
 
 ## Word Sense Disambiguation (WSD)
