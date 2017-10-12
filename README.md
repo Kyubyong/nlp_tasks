@@ -5,7 +5,7 @@
 
 ## GEC
 ----
-  * See [Grammatical Error Correction](#grammatical-error-correction-(gec))
+  * See [Grammatical Error Correction](#pinyin-to-chinese-conversion-(ptc))
 
 ## Grammatical Error Correction (GEC)
 ----
