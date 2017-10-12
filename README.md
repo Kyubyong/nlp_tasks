@@ -41,9 +41,6 @@
   * ****`DATA`**** [CoNLL 2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2012/data.html)
   * ****`DATA`**** [CoNLL 2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2011/data.html)
 
-## Discourse Parsing
-  * ****``**** []()
-
 ## Entity Linking
   * See [Named Entity Disambiguation](#named-entity-disambiguation)
 
@@ -64,9 +61,6 @@
   * ****`PROJECT`**** [Sequence-to-Sequence G2P toolkit](https://github.com/cmusphinx/g2p-seq2seq)
   * ****`DATA`**** [Multilingual Pronunciation Data](https://drive.google.com/drive/folders/0B7R_gATfZJ2aWkpSWHpXUklWUmM)
 
-## Hedge Detection
-  * ****``**** []()
-
 ## Language Guessing
   * See [Language Identification](#language-identification)
 
@@ -76,7 +70,11 @@
   * ****`CHALLENGE`**** [2015 Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/2015-language-recognition-evaluation)
 
 ## Language Modeling
-  * ****``**** []()
+  * ****`WIKI`**** [Language model](https://en.wikipedia.org/wiki/Language_model)
+  * ****`TOOLKIT`**** [KenLM Language Model Toolkit](http://kheafield.com/code/kenlm/)
+  * ****`PAPER`**** [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  * ****`PAPER`**** [Character-Aware Neural Language Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017)
+  * ****`DATA`**** [Penn Treebank](https://github.com/townie/PTB-dataset-from-Tomas-Mikolov-s-webpage/tree/master/data)
 
 ## Language Recognition
   * See [Language Identification](#language-identification)
@@ -105,9 +103,6 @@
   * ****`DATA`**** [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
   * ****`DATA`**** [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/)
   * ****`DATA`**** [The QCRI Educational Domain (QED) Corpus](http://alt.qcri.org/resources/qedcorpus/)
-
-## Metaphor Detection
-  * ****``**** []()
 
 ## Morphological Inflection Generation
   * ****`WIKI`**** [Inflection](https://en.wikipedia.org/wiki/Inflection)
@@ -142,17 +137,14 @@
   * ****`DATA`**** [WikiAnswers Paraphrase Corpus](http://knowitall.cs.washington.edu/paralex/wikianswers-paraphrases-1.0.tar.gz)
 
 ## Parsing
-  * ****``**** []()
+  * ****`WIKI`**** [Parsing](https://en.wikipedia.org/wiki/Parsing)
+  * ****`TOOLKIT`**** [The Stanford Parser: A statistical parser](https://nlp.stanford.edu/software/lex-parser.shtml)
+  * ****`TOOLKIT`**** [spaCy parser](https://spacy.io/docs/usage/dependency-parse)
+  * ****`PAPER`**** [A fast and accurate dependency parser using neural networks](http://www.aclweb.org/anthology/D14-1082)
   * ****`CHALLENGE`**** [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
-  * ****``**** []()
-  * ****``**** []()
   * ****`CHALLENGE`**** [CoNLL 2016 Shared Task: Multilingual Shallow Discourse Parsing](http://www.cs.brandeis.edu/~clp/conll16st/)
   * ****`CHALLENGE`**** [ CoNLL 2015 Shared Task: Shallow Discourse Parsing ](http://www.cs.brandeis.edu/~clp/conll15st/)
-  * ****`DATA`**** [CoNLL 2016 Shared Task: Multilingual Shallow Discourse Parsing](http://www.cs.brandeis.edu/~clp/conll16st/dataset.html)
-  * ****`CHALLENGE`**** [ CoNLL 2015 Shared Task: Shallow Discourse Parsing ](http://www.cs.brandeis.edu/~clp/conll15st/dataset.html)
-  * ****``**** []()
-  * ****``**** []()
-  * ****``**** []()
+  * ****`CHALLENGE`**** [SemEval-2016 Task 8: The meaning representations may be abstract, but this task is concrete!](http://alt.qcri.org/semeval2016/task8/)
 
 ## Part-of-speech Tagging
   * ****`WIKI`**** [Part-of-speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
@@ -219,7 +211,6 @@
 
 ## Source Separation
   * ****`WIKI`**** [Source separation](https://en.wikipedia.org/wiki/Source_separation)
-  * ****``**** []()
 
 ## Speaker Authentication
   * See [Speaker Verification](#speaker-verification)
@@ -228,12 +219,6 @@
   * ****``**** []()
 
 ## Speaker Verification
-  * ****``**** []()
-  * ****``**** []()
-  * ****``**** []()
-  * ****``**** []()
-  * ****``**** []()
-  * ****``**** []()
   * ****``**** []()
 
 ## Speaker Diarisation
@@ -312,8 +297,14 @@
   * ****`DATA`**** [CMU_ARCTIC speech synthesis databases](http://festvox.org/cmu_arctic/)
   * ****`DATA`**** [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/ldc93s1)
 
-## Word Embeddings
-  * ****``**** []()
+## Word Embedding
+  * ****`WIKI`**** [Word embedding](https://en.wikipedia.org/wiki/Word_embedding)
+  * ****`TOOLKIT`**** [Gensim: word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
+  * ****`TOOLKIT`**** [fastText](https://github.com/facebookresearch/fastText)
+  * ****`TOOLKIT`**** [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+  * ****`INFO`**** [Where to get a pretrained model](https://github.com/3Top/word2vec-api)
+  * ****`PROJECT`**** [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
+  * ****`PROJECT`**** [Polyglot: Distributed word representations for multilingual NLP](https://sites.google.com/site/rmyeid/projects/polyglot)
 
 ## Word Prediction
   * ****`INFO`**** [What is Word Prediction?](http://www2.edc.org/ncip/library/wp/what_is.htm)
