@@ -2,11 +2,9 @@
 
 I've been working on several natural language processing tasks for a long time. One day, I felt like to draw a map of the NLP field where I earn a living. I'm sure I'm not the only person who wants to see at a glance which tasks are in NLP.
 
-I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge. And selected references are biased towards recent deep learning  accomplishments. I expect these serve as a starting point when you're about to dig into the task. I'll keep updating this repo myself, but what I really hope is you collaborate on this work. Don't hesitate to send me a pull request!
+I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge. And selected references are biased towards recent deep learning accomplishments. I expect these serve as a starting point when you're about to dig into the task. I'll keep updating this repo myself, but what I really hope is you collaborate on this work. Don't hesitate to send me a pull request!
 
-by Kyubyong<br/>
-reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi)
-
+by Kyubyong
 
 ## Anaphora Resolution
   * See [Coreference Resolution](#coreference-resolution)
@@ -15,7 +13,6 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`PAPER`**** [Automatic Text Scoring Using Neural Networks](https://arxiv.org/abs/1606.04289)
   * ****`PAPER`**** [A Neural Approach to Automated Essay Scoring](http://www.aclweb.org/old_anthology/D/D16/D16-1193.pdf)
   * ****`CHALLENGE`**** [Kaggle: The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes)
-  * ****`DATA`**** [Kaggle: The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes/data)
   * ****`PROJECT`**** [EASE (Enhanced AI Scoring Engine)](https://github.com/edx/ease)
 
 ## Automatic Speech Recognition
@@ -45,8 +42,6 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`PAPER`**** [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://arxiv.org/abs/1606.01323)
   * ****`CHALLENGE`**** [CoNLL 2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2012/task-description.html)
   * ****`CHALLENGE`**** [CoNLL 2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2011/task-description.html)
-  * ****`DATA`**** [CoNLL 2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2012/data.html)
-  * ****`DATA`**** [CoNLL 2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2011/data.html)
 
 ## Entity Linking
   * See [Named Entity Disambiguation](#named-entity-disambiguation)
@@ -105,8 +100,6 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`PAPER`**** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   * ****`CHALLENGE`**** [ACL 2014 NINTH WORKSHOP ON STATISTICAL MACHINE TRANSLATION](http://www.statmt.org/wmt14/translation-task.html#download)
   * ****`CHALLENGE`**** [EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17) ](http://www.statmt.org/wmt17/translation-task.html)
-  * ****`DATA`**** [EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17) ](http://www.statmt.org/wmt17/translation-task.html#download)
-  * ****`DATA`**** [ACL 2014 NINTH WORKSHOP ON STATISTICAL MACHINE TRANSLATION](http://www.statmt.org/wmt14/translation-task.html#download)
   * ****`DATA`**** [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
   * ****`DATA`**** [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/)
   * ****`DATA`**** [The QCRI Educational Domain (QED) Corpus](http://alt.qcri.org/resources/qedcorpus/)
@@ -211,22 +204,19 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`PROJECT`**** [SenticNet ](http://sentic.net/about/)
   * ****`DATA`**** [Multi-Domain Sentiment Dataset (version 2.0)](http://www.cs.jhu.edu/%7Emdredze/datasets/sentiment/)
   * ****`DATA`**** [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/code.html)
-  * ****`DATA`**** [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
   * ****`DATA`**** [Twitter Sentiment Corpus](http://www.sananalytics.com/lab/twitter-sentiment/)
   * ****`DATA`**** [Twitter Sentiment Analysis Training Corpus](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/)
   * ****`DATA`**** [AFINN: List of English words rated for valence](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 
 ## Source Separation
   * ****`WIKI`**** [Source separation](https://en.wikipedia.org/wiki/Source_separation)
+  * ****`PAPER`**** [From Blind to Guided Audio Source Separation](https://hal-univ-rennes1.archives-ouvertes.fr/hal-00922378/document)
+  * ****`PAPER`**** [Joint Optimization of Masks and Deep Recurrent Neural Networks for Monaural Source Separation](https://arxiv.org/abs/1502.04149)
+  * ****`CHALLENGE`**** [Signal Separation Evaluation Campaign (SiSEC)](https://sisec.inria.fr/)
+  * ****`CHALLENGE`**** [CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
 
 ## Speaker Authentication
   * See [Speaker Verification](#speaker-verification)
-
-## Speaker Identification
-  * ****``**** []()
-
-## Speaker Verification
-  * ****``**** []()
 
 ## Speaker Diarisation
   * ****`WIKI`**** [Speaker diarisation](https://en.wikipedia.org/wiki/Speaker_diarisation)
@@ -234,6 +224,13 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`PAPER`**** [Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
   * ****`PAPER`**** [Audio-Visual Speaker Diarization Based on Spatiotemporal Bayesian Fusion](https://arxiv.org/pdf/1603.09725.pdf)
   * ****`CHALLENGE`**** [Rich Transcription Evaluation ](https://www.nist.gov/itl/iad/mig/rich-transcription-evaluation)
+
+## Speaker Recognition
+  * ****`WIKI`**** [Speaker recognition](https://en.wikipedia.org/wiki/Speaker_recognition)
+  * ****`PAPER`**** [A NOVEL SCHEME FOR SPEAKER RECOGNITION USING A PHONETICALLY-AWARE DEEP NEURAL NETWORK](https://pdfs.semanticscholar.org/204a/ff8e21791c0a4113a3f75d0e6424a003c321.pdf)
+  * ****`PAPER`**** [DEEP NEURAL NETWORKS FOR SMALL FOOTPRINT TEXT-DEPENDENT SPEAKER VERIFICATION](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41939.pdf)
+  * ****`CHALLENGE`**** [NIST Speaker Recognition Evaluation (SRE)](https://www.nist.gov/itl/iad/mig/speaker-recognition)
+  * ****`INFO`**** [Are there any suggestions for free databases for speaker recognition?](https://www.researchgate.net/post/Are_there_any_suggestions_for_free_databases_for_speaker_recognition)
 
 ## Speech Reading
   * See [Lip-reading](#lip-reading)
@@ -253,7 +250,7 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`WIKI`**** [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
   * ****`PAPER`**** [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
   * ****`PAPER`**** [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135)
-  * ****`PAPER`**** [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://pdfs.semanticscholar.org/c2ba/9d550bbfb542e9fdd6e817e9be15585d0f47.pdf)
+  * ****`PAPER`**** [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947)
   * ****`DATA`**** [The World English Bible](https://github.com/Kyubyong/tacotron)
   * ****`DATA`**** [LJ Speech Dataset](https://github.com/keithito/tacotron)
   * ****`DATA`**** [Lessac Data](http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/)
@@ -264,6 +261,10 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
 
 ## Speech Enhancement
   * ****`WIKI`**** [Speech enhancement](https://en.wikipedia.org/wiki/Speech_enhancement)
+  * ****`BOOK`**** [Speech enhancement: theory and practice](https://www.amazon.com/Speech-Enhancement-Theory-Practice-Second/dp/1466504218/ref=sr_1_1?ie=UTF8&qid=1507874199&sr=8-1&keywords=Speech+enhancement%3A+theory+and+practice)
+  * ****`PAPER`**** [An Experimental Study on Speech Enhancement BasedonDeepNeuralNetwork](http://staff.ustc.edu.cn/~jundu/Speech%20signal%20processing/publications/SPL2014_Xu.pdf)
+  * ****`PAPER`**** [A Regression Approach to Speech Enhancement BasedonDeepNeuralNetworks](https://www.researchgate.net/profile/Yong_Xu63/publication/272436458_A_Regression_Approach_to_Speech_Enhancement_Based_on_Deep_Neural_Networks/links/57fdfdda08aeaf819a5bdd97.pdf)
+  * ****`PAPER`**** [Speech Enhancement Based on Deep Denoising Autoencoder](https://www.researchgate.net/profile/Yu_Tsao/publication/283600839_Speech_enhancement_based_on_deep_denoising_Auto-Encoder/links/577b486108ae213761c9c7f8/Speech-enhancement-based-on-deep-denoising-Auto-Encoder.pdf)
 
 ## Speech-To-Text
   * See [Automatic Speech Recognition](#automatic-speech-recognition)
@@ -303,6 +304,9 @@ reviewed by [yj](https://github.com/yjchoe) and [avin](https://github.com/andabi
   * ****`CHALLENGE`**** [Voice Conversion Challenge 2018](http://www.vc-challenge.org/)
   * ****`DATA`**** [CMU_ARCTIC speech synthesis databases](http://festvox.org/cmu_arctic/)
   * ****`DATA`**** [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/ldc93s1)
+
+## Voice Recognition
+  * See [Speaker recognition](#speaker-recognition)
 
 ## Word Embedding
   * ****`WIKI`**** [Word embedding](https://en.wikipedia.org/wiki/Word_embedding)
