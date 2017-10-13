@@ -29,7 +29,7 @@ by Kyubyong
   * ****`DATA`**** [Switchboard-1 Telephone Speech Corpus](https://catalog.ldc.upenn.edu/ldc97s62)
   * ****`DATA`**** [TED-LIUM Corpus](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)
 
-## Automatic Summarisation
+## Automatic Summarization
   * ****`WIKI`**** [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
   * ****`BOOK`**** [Automatic Text Summarization](https://www.amazon.com/Automatic-Text-Summarization-Juan-Manuel-Torres-Moreno/dp/1848216688/ref=sr_1_1?s=books&ie=UTF8&qid=1507782304&sr=1-1&keywords=Automatic+Text+Summarization)
   * ****`PAPER`**** [Text Summarization Using Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.823.8025&rep=rep1&type=pdf)
@@ -53,7 +53,7 @@ by Kyubyong
   * ****`CHALLENGE`**** [CoNLL-2014 Shared Task: Grammatical Error Correction](http://www.comp.nus.edu.sg/~nlp/conll14st.html)
   * ****`DATA`**** [NUS Non-commercial research/trial corpus license](http://www.comp.nus.edu.sg/~nlp/conll14st/nucle_license.pdf)
   * ****`DATA`**** [Lang-8 Learner Corpora](http://cl.naist.jp/nldata/lang-8/)
-  * ****`DATA`**** [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html)
+  * ****`DATA`**** [Cornell Movie — Dialogs Corpus](http://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html)
   * ****`PROJECT`**** [Deep Text Corrector](https://github.com/atpaino/deep-text-corrector)
   * ****`PRODUCT`**** [deep grammar](http://deepgrammar.com/)
 
