@@ -4,7 +4,7 @@ I've been working on several natural language processing tasks for a long time. 
 
 I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge. And selected references are biased towards recent deep learning accomplishments. I expect these serve as a starting point when you're about to dig into the task. I'll keep updating this repo myself, but what I really hope is you collaborate on this work. Don't hesitate to send me a pull request!
 
-Oct. 13, 2017.
+Oct. 13, 2017.<br/>
 by Kyubyong
 
 ## Anaphora Resolution
