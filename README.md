@@ -184,6 +184,7 @@ by Kyubyong
   * ****`BOOK`**** [Semantic Role Labeling](https://www.amazon.com/Semantic-Labeling-Synthesis-Lectures-Technologies/dp/1598298313/ref=sr_1_1?s=books&ie=UTF8&qid=1507776173&sr=1-1&keywords=Semantic+Role+Labeling)
   * ****`PAPER`**** [End-to-end Learning of Semantic Role Labeling Using Recurrent Neural Networks](http://www.aclweb.org/anthology/P/P15/P15-1109.pdf)
   * ****`PAPER`**** [Neural Semantic Role Labeling with Dependency Path Embeddi ngs](https://arxiv.org/abs/1605.07515)
+  * ****`PAPER`**** [Deep Semantic Role Labeling: What Works and What's Next](https://homes.cs.washington.edu/~luheng/files/acl2017_hllz.pdf)
   * ****`CHALLENGE`**** [CoNLL-2005 Shared Task: Semantic Role Labeling](http://www.cs.upc.edu/~srlconll/st05/st05.html)
   * ****`CHALLENGE`**** [CoNLL-2004 Shared Task: Semantic Role Labeling](http://www.cs.upc.edu/~srlconll/st04/st04.html)
   * ****`TOOLKIT`**** [Illinois Semantic Role Labeler (SRL)](http://cogcomp.org/page/software_view/SRL)
