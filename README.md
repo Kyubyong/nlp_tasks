@@ -136,6 +136,11 @@ by Kyubyong
   * ****`DATA`**** [The SICK data set](http://clic.cimec.unitn.it/composes/sick.html)
   * ****`DATA`**** [PPDB: The Paraphrase Database](http://www.cis.upenn.edu/%7Eccb/ppdb/)
   * ****`DATA`**** [WikiAnswers Paraphrase Corpus](http://knowitall.cs.washington.edu/paralex/wikianswers-paraphrases-1.0.tar.gz)
+  
+## Paraphrase Generation  
+* ****`PAPER`**** [Neural Paraphrase Generation with Stacked Residual LSTM Networks](https://arxiv.org/pdf/1610.03098.pdf)
+* ****`PAPER`**** [A Deep Generative Framework for Paraphrase Generation](https://arxiv.org/pdf/1709.05074.pdf)
+* ****`PAPER`**** [Paraphrasing Revisited with Neural Machine Translation](http://www.research.ed.ac.uk/portal/files/34902784/document.pdf)
 
 ## Parsing
   * ****`WIKI`**** [Parsing](https://en.wikipedia.org/wiki/Parsing)
