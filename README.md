@@ -304,6 +304,13 @@ by Kyubyong
   * ****`CHALLENGE`**** [SemEval-2014 Task 1: Evaluation of compositional distributional semantic models on full sentences through semantic relatedness and textual entailment](http://alt.qcri.org/semeval2014/task1/)
   * ****`CHALLENGE`**** [SemEval-2013 Task 7: The Joint Student Response Analysis and 8th Recognizing Textual Entailment Challenge](https://www.cs.york.ac.uk/semeval-2013/task7.html)
 
+## Transliteration
+  * ****`WIKI`**** [Transliteration](https://en.wikipedia.org/wiki/Transliteration)
+  * ****`INFO`**** [Transliteration of Non-Latin scripts](http://transliteration.eki.ee/)
+  * ****`PAPER`**** [A Deep Learning Approach to Machine Transliteration](https://pdfs.semanticscholar.org/54f1/23122b8dd1f1d3067cf348cfea1276914377.pdf)
+  * ****`CHALLENGE`**** [NEWS 2016 Shared Task on Transliteration of Named Entities](http://workshop.colips.org/news2016/index.html)
+  * ****`PROJECT`**** [Neural Japanese Transliteration—can you do better than SwiftKey™ Keyboard?](https://github.com/Kyubyong/neural_japanese_transliterator)
+  
 ## Voice Conversion
   * ****`PAPER`**** [PHONETIC POSTERIORGRAMS FOR MANY-TO-ONE VOICE CONVERSION WITHOUT PARALLEL DATA TRAINING](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/2016_paper_297.pdf)
   * ****`PROJECT`**** [An implementation of voice conversion system utilizing phonetic posteriorgrams](https://github.com/sesenosannko/ppg_vc)
