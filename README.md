@@ -160,6 +160,7 @@ by Kyubyong
   * ****`TOOLKIT`**** [nltk.tag package](http://www.nltk.org/api/nltk.tag.html)
 
 ## Pinyin-To-Chinese Conversion
+  * ****`WIKI`**** [Pinyin input method](https://en.wikipedia.org/wiki/Pinyin_input_method)
   * ****`PAPER`**** [Neural Network Language Model for Chinese Pinyin Input Method Engine](http://aclweb.org/anthology/Y15-1052)
   * ****`PROJECT`**** [Neural Chinese Transliterator](https://github.com/Kyubyong/neural_chinese_transliterator)
 
