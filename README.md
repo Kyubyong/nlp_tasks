@@ -343,7 +343,7 @@ by Kyubyong
   * ****`PAPER`**** [Evaluating Word Prediction: Framing Keystroke Savings](http://aclweb.org/anthology/P08-2066)
   * ****`DATA`**** [An Embedded Deep Learning based Word Prediction](https://github.com/Meinwerk/WordPrediction/master.zip)
   * ****`PROJECT`**** [Word Prediction using Convolutional Neural Networks—can you do better than iPhone™ Keyboard?](https://github.com/Kyubyong/word_prediction)
-  * ****`PROJECT`**** [SemEval-2018 Task 2, Multilingual Emoji Prediction (In Progress)](https://competitions.codalab.org/competitions/17344)
+  * ****`CHALLENGE`**** [SemEval-2018 Task 2, Multilingual Emoji Prediction (In Progress)](https://competitions.codalab.org/competitions/17344)
 
 ## Word Segmentation
   * ****`WIKI`**** [Word segmentation](https://en.wikipedia.org/wiki/Text_segmentation#Segmentation_problems)
