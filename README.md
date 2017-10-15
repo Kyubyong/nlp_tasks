@@ -43,7 +43,8 @@ by Kyubyong
   * ****`PAPER`**** [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://arxiv.org/abs/1606.01323)
   * ****`CHALLENGE`**** [CoNLL 2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2012/task-description.html)
   * ****`CHALLENGE`**** [CoNLL 2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2011/task-description.html)
-
+  * ****`CHALLENGE`**** [SemEval 2018 Task 4: Character Identification on Multiparty Dialogues (In Progress)](https://competitions.codalab.org/competitions/17310)
+  
 ## Entity Linking
   * See [Named Entity Disambiguation](#named-entity-disambiguation)
 
@@ -172,6 +173,7 @@ by Kyubyong
   * ****`CHALLENGE`**** [NTCIR-8: Advanced Cross-lingual Information Access (ACLIA)](http://aclia.lti.cs.cmu.edu/ntcir8/Home)
   * ****`CHALLENGE`**** [CLEF Question Answering Track](http://nlp.uned.es/clef-qa/)
   * ****`CHALLENGE`**** [SemEval-2017 Task 3: Community Question Answering](http://alt.qcri.org/semeval2017/task3/)
+  * ****`CHALLENGE`**** [SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge (In Progress)](https://competitions.codalab.org/competitions/17184)
   * ****`DATA`**** [MS MARCO: Microsoft MAchine Reading COmprehension Dataset](http://www.msmarco.org/)
   * ****`DATA`**** [Maluuba NewsQA](https://github.com/Maluuba/newsqa)
   * ****`DATA`**** [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://rajpurkar.github.io/SQuAD-explorer/)
@@ -184,7 +186,8 @@ by Kyubyong
 ## Relationship Extraction
   * ****`WIKI`**** [Relationship extraction](https://en.wikipedia.org/wiki/Relationship_extraction)
   * ****`PAPER`**** [A deep learning approach for relationship extraction from interaction context in social manufacturing paradigm](http://www.sciencedirect.com/science/article/pii/S0950705116001210)
-
+  * ****`CHALLENGE`**** [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers (In Progress)](https://competitions.codalab.org/competitions/17422)
+  
 ## Semantic Role Labeling
   * ****`WIKI`**** [Semantic role labeling](https://en.wikipedia.org/wiki/Semantic_role_labeling)
   * ****`BOOK`**** [Semantic Role Labeling](https://www.amazon.com/Semantic-Labeling-Synthesis-Lectures-Technologies/dp/1598298313/ref=sr_1_1?s=books&ie=UTF8&qid=1507776173&sr=1-1&keywords=Semantic+Role+Labeling)
@@ -331,7 +334,8 @@ by Kyubyong
   * ****`INFO`**** [Where to get a pretrained model](https://github.com/3Top/word2vec-api)
   * ****`PROJECT`**** [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
   * ****`PROJECT`**** [Polyglot: Distributed word representations for multilingual NLP](https://sites.google.com/site/rmyeid/projects/polyglot)
-
+  * ****`CHALLENGE`**** [SemEval 2018 Task 10 Capturing Discriminative Attributes (In Progress)](https://competitions.codalab.org/competitions/17326)
+  
 ## Word Prediction
   * ****`INFO`**** [What is Word Prediction?](http://www2.edc.org/ncip/library/wp/what_is.htm)
   * ****`PAPER`**** [The prediction of character based on recurrent neural network language model](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7960065)
@@ -339,6 +343,7 @@ by Kyubyong
   * ****`PAPER`**** [Evaluating Word Prediction: Framing Keystroke Savings](http://aclweb.org/anthology/P08-2066)
   * ****`DATA`**** [An Embedded Deep Learning based Word Prediction](https://github.com/Meinwerk/WordPrediction/master.zip)
   * ****`PROJECT`**** [Word Prediction using Convolutional Neural Networks—can you do better than iPhone™ Keyboard?](https://github.com/Kyubyong/word_prediction)
+  * ****`PROJECT`**** [SemEval-2018 Task 2, Multilingual Emoji Prediction (In Progress)](https://competitions.codalab.org/competitions/17344)
 
 ## Word Segmentation
   * ****`WIKI`**** [Word segmentation](https://en.wikipedia.org/wiki/Text_segmentation#Segmentation_problems)
