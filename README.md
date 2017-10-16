@@ -299,7 +299,7 @@ by Kyubyong
   * ****`PAPER`**** [Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks](http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_LearningRankShort.pdf)
   * ****`CHALLENGE`**** [SemEval-2014 Task 3: Cross-Level Semantic Similarity](http://alt.qcri.org/semeval2014/task3/)
   * ****`CHALLENGE`**** [SemEval-2014 Task 10: Multilingual Semantic Textual Similarity](http://alt.qcri.org/semeval2014/task10/)
-  * ****`CHALLENGE`**** [SemEval-2016 Task 1: Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation](http://alt.qcri.org/semeval2016/task1/)
+  * ****`CHALLENGE`**** [SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation](http://alt.qcri.org/semeval2016/task1/)
   
 ## Text Simplification
   * ****`WIKI`**** [Text simplification](https://en.wikipedia.org/wiki/Text_simplification)
