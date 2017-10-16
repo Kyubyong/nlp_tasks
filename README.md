@@ -130,6 +130,7 @@ by Kyubyong
 ## Paraphrase Detection
   * ****`PAPER`**** [Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7199&rep=rep1&type=pdf)
   * ****`PROJECT`**** [Paralex: Paraphrase-Driven Learning for Open Question Answering](http://knowitall.cs.washington.edu/paralex/)
+  * ****`CHALLENGE`**** [SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter](http://alt.qcri.org/semeval2015/task1/)
   * ****`DATA`**** [Microsoft Research Paraphrase Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52398)
   * ****`DATA`**** [Microsoft Research Video Description Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52422&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2F38cf15fd-b8df-477e-a4e4-a4680caa75af%2F)
   * ****`DATA`**** [Pascal Dataset](http://nlp.cs.illinois.edu/HockenmaierGroup/pascal-sentences/index.html)
@@ -292,6 +293,14 @@ by Kyubyong
   * ****`WIKI`**** [Terminology extraction](https://en.wikipedia.org/wiki/Terminology_extraction)
   * ****`PAPER`**** [Neural Attention Models for Sequence Classification: Analysis and Application to Key Term Extraction and Dialogue Act Detection](https://arxiv.org/pdf/1604.00077.pdf)
 
+## Text Similarity
+  * ****`WIKI`**** [Semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity)
+  * ****`PAPER`**** [A Survey of Text Similarity Approaches](https://pdfs.semanticscholar.org/5b5c/a878c534aee3882a038ef9e82f46e102131b.pdf)
+  * ****`PAPER`**** [Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks](http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_LearningRankShort.pdf)
+  * ****`CHALLENGE`**** [SemEval-2014 Task 3: Cross-Level Semantic Similarity](http://alt.qcri.org/semeval2014/task3/)
+  * ****`CHALLENGE`**** [SemEval-2014 Task 10: Multilingual Semantic Textual Similarity](http://alt.qcri.org/semeval2014/task10/)
+  * ****`CHALLENGE`**** [SemEval-2016 Task 1: Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation](http://alt.qcri.org/semeval2016/task1/)
+  
 ## Text Simplification
   * ****`WIKI`**** [Text simplification](https://en.wikipedia.org/wiki/Text_simplification)
   * ****`PAPER`**** [Aligning Sentences from Standard Wikipedia to Simple Wikipedia](https://ssli.ee.washington.edu/~hannaneh/papers/simplification.pdf)
