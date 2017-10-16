@@ -222,6 +222,7 @@ by Kyubyong
 
 ## Singing Voice Synthesis
   * ****`PAPER`**** [Singing voice synthesis based on deep neural networks](https://pdfs.semanticscholar.org/9a8e/b69480eead85f32ee4b92fa2563dd5f83401.pdf)
+  * ****`PAPER`**** [A Neural Parametric Singing Synthesizer](https://arxiv.org/abs/1704.03809)  
   * ****`PRODUCT`**** [VOCALOID: voice synthesis technology and software developed by Yamaha](https://www.vocaloid.com/en)
   * ****`CHALLENGE`**** [Special Session Interspeech 2016 Singing synthesis challenge "Fill-in the Gap"](https://chanter.limsi.fr/doku.php?id=description:start)
 
