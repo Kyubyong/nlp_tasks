@@ -220,6 +220,11 @@ by Kyubyong
   * ****`DATA`**** [Twitter Sentiment Analysis Training Corpus](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/)
   * ****`DATA`**** [AFINN: List of English words rated for valence](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 
+## Singing Voice Synthesis
+  * ****`PAPER`**** [Singing voice synthesis based on deep neural networks](https://pdfs.semanticscholar.org/9a8e/b69480eead85f32ee4b92fa2563dd5f83401.pdf)
+  * ****`PRODUCT`**** [VOCALOID: voice synthesis technology and software developed by Yamaha](https://www.vocaloid.com/en)
+  * ****`CHALLENGE`**** [Special Session Interspeech 2016 Singing synthesis challenge "Fill-in the Gap"](https://chanter.limsi.fr/doku.php?id=description:start)
+
 ## Source Separation
   * ****`WIKI`**** [Source separation](https://en.wikipedia.org/wiki/Source_separation)
   * ****`PAPER`**** [From Blind to Guided Audio Source Separation](https://hal-univ-rennes1.archives-ouvertes.fr/hal-00922378/document)
