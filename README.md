@@ -1,11 +1,13 @@
 # Natural Language Processing Tasks and Selected References
 
-I've been working on several natural language processing tasks for a long time. One day, I felt like to draw a map of the NLP field where I earn a living. I'm sure I'm not the only person who wants to see at a glance which tasks are in NLP.
+I've been working on several natural language processing tasks for a long time. One day, I felt like drawing a map of the NLP field where I earn a living. I'm sure I'm not the only person who wants to see at a glance which tasks are in NLP.
 
 I did my best to cover as many as possible tasks in NLP, but admittedly this is far from exhaustive purely due to my lack of knowledge. And selected references are biased towards recent deep learning accomplishments. I expect these serve as a starting point when you're about to dig into the task. I'll keep updating this repo myself, but what I really hope is you collaborate on this work. Don't hesitate to send me a pull request!
 
 Oct. 13, 2017.<br/>
 by Kyubyong
+
+Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
 
 ## Anaphora Resolution
   * See [Coreference Resolution](#coreference-resolution)
@@ -50,6 +52,7 @@ by Kyubyong
 
 ## Grammatical Error Correction
   * ****`PAPER`**** [Neural Network Translation Models for Grammatical Error Correction](https://arxiv.org/abs/1606.00189)
+  * ****`PAPER`**** [Adapting Sequence Models for Sentence Correction](http://aclweb.org/anthology/D17-1297)
   * ****`CHALLENGE`**** [CoNLL-2013 Shared Task: Grammatical Error Correction](http://www.comp.nus.edu.sg/~nlp/conll13st.html)
   * ****`CHALLENGE`**** [CoNLL-2014 Shared Task: Grammatical Error Correction](http://www.comp.nus.edu.sg/~nlp/conll14st.html)
   * ****`DATA`**** [NUS Non-commercial research/trial corpus license](http://www.comp.nus.edu.sg/~nlp/conll14st/nucle_license.pdf)
@@ -65,20 +68,44 @@ by Kyubyong
   * ****`PROJECT`**** [Sequence-to-Sequence G2P toolkit](https://github.com/cmusphinx/g2p-seq2seq)
   * ****`DATA`**** [Multilingual Pronunciation Data](https://drive.google.com/drive/folders/0B7R_gATfZJ2aWkpSWHpXUklWUmM)
 
+## Humor and Sarcasm Detection
+  * ****`PAPER`**** [Automatic Sarcasm Detection: A Survey](https://arxiv.org/abs/1602.03426)
+  * ****`PAPER`**** [Magnets for Sarcasm: Making Sarcasm Detection Timely, Contextual and Very Personal](http://aclweb.org/anthology/D17-1051)
+  * ****`PAPER`**** [Sarcasm Detection on Twitter: A Behavioral Modeling Approach](http://ai2-s2-pdfs.s3.amazonaws.com/67b5/9db00c29152d8e738f693f153e1ab9b43466.pdf)
+  * ****`CHALLENGE`**** [SemEval-2017 Task 6: #HashtagWars: Learning a Sense of Humor](http://alt.qcri.org/semeval2017/task6/)
+  * ****`CHALLENGE`**** [SemEval-2017 Task 7: Detection and Interpretation of English Puns](http://alt.qcri.org/semeval2017/task7/)
+  * ****`DATA`**** [Sarcastic comments from Reddit](https://www.kaggle.com/danofer/sarcasm/)
+  * ****`DATA`**** [Sarcasm Corpus V2](https://nlds.soe.ucsc.edu/sarcasm2)
+  * ****`DATA`**** [Sarcasm Amazon Reviews Corpus](https://github.com/ef2020/SarcasmAmazonReviewsCorpus)
+
+## Language Grounding
+  * ****`WIKI`**** [Symbol grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem)
+  * ****`PAPER`**** [The Symbol Grounding Problem](http://courses.media.mit.edu/2004spring/mas966/Harnad%20symbol%20grounding.pdf)
+  * ****`PAPER`**** [From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning](https://arxiv.org/abs/1610.03342)
+  * ****`PAPER`**** [Encoding of phonology in a recurrent neural model of grounded speech](https://arxiv.org/abs/1706.03815)
+  * ****`PAPER`**** [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230)
+  * ****`PAPER`**** [Sound-Word2Vec: Learning Word Representations Grounded in Sounds](https://arxiv.org/abs/1703.01720)
+  * ****`COURSE`**** [Language Grounding to Vision and Control](https://www.cs.cmu.edu/~katef/808/)
+  * ****`WORKSHOP`**** [Language Grounding for Robotics](https://robonlp2017.github.io/)
+
 ## Language Guessing
   * See [Language Identification](#language-identification)
 
 ## Language Identification
   * ****`WIKI`**** [Language identification](https://en.wikipedia.org/wiki/Language_identification)
   * ****`PAPER`**** [AUTOMATIC LANGUAGE IDENTIFICATION USING DEEP NEURAL NETWORKS](https://repositorio.uam.es/bitstream/handle/10486/666848/automatic_lopez-moreno_ICASSP_2014_ps.pdf?sequence=1)
+  * ****`PAPER`**** [Natural Language Processing with Small Feed-Forward Networks](http://aclweb.org/anthology/D17-1308)
   * ****`CHALLENGE`**** [2015 Language Recognition Evaluation](https://www.nist.gov/itl/iad/mig/2015-language-recognition-evaluation)
 
 ## Language Modeling
   * ****`WIKI`**** [Language model](https://en.wikipedia.org/wiki/Language_model)
   * ****`TOOLKIT`**** [KenLM Language Model Toolkit](http://kheafield.com/code/kenlm/)
   * ****`PAPER`**** [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  * ****`PAPER`**** [Generating Sequences with Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf)
   * ****`PAPER`**** [Character-Aware Neural Language Models](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017)
+  * ****`THESIS`**** [Statistical Language Models Based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
   * ****`DATA`**** [Penn Treebank](https://github.com/townie/PTB-dataset-from-Tomas-Mikolov-s-webpage/tree/master/data)
+  * ****`TUTORIAL`**** [TensorFlow Tutorial on Language Modeling with Recurrent Neural Networks](https://www.tensorflow.org/tutorials/recurrent#language_modeling)
 
 ## Language Recognition
   * See [Language Identification](#language-identification)
@@ -100,11 +127,18 @@ by Kyubyong
   * ****`PAPER`**** [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
   * ****`PAPER`**** [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
   * ****`PAPER`**** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  * ****`PAPER`**** [Six Challenges for Neural Machine Translation](http://aclweb.org/anthology/W/W17/W17-3204.pdf)
   * ****`CHALLENGE`**** [ACL 2014 NINTH WORKSHOP ON STATISTICAL MACHINE TRANSLATION](http://www.statmt.org/wmt14/translation-task.html#download)
   * ****`CHALLENGE`**** [EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17) ](http://www.statmt.org/wmt17/translation-task.html)
   * ****`DATA`**** [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
   * ****`DATA`**** [WIT3: Web Inventory of Transcribed and Translated Talks](https://wit3.fbk.eu/)
   * ****`DATA`**** [The QCRI Educational Domain (QED) Corpus](http://alt.qcri.org/resources/qedcorpus/)
+  * ****`PAPER`**** [Multi-task Sequence to Sequence Learning](https://arxiv.org/abs/1511.06114)
+  * ****`PAPER`**** [Unsupervised Pretraining for Sequence to Sequence Learning](http://aclweb.org/anthology/D17-1039)
+  * ****`PAPER`**** [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)
+  * ****`TOOLKIT`**** [Subword Neural Machine Translation with Byte Pair Encoding (BPE)](https://github.com/rsennrich/subword-nmt)
+  * ****`TOOLKIT`**** [Multi-Way Neural Machine Translation](https://github.com/nyu-dl/dl4mt-multi)
+  * ****`TOOLKIT`**** [OpenNMT: Open-Source Toolkit for Neural Machine Translation](http://opennmt.net/)
 
 ## Morphological Inflection Generation
   * ****`WIKI`**** [Inflection](https://en.wikipedia.org/wiki/Inflection)
@@ -126,6 +160,7 @@ by Kyubyong
   * ****`DATA`**** [CoNLL-2002 NER corpus](https://github.com/teropa/nlp/tree/master/resources/corpora/conll2002)
   * ****`DATA`**** [CoNLL-2003 NER corpus](https://github.com/synalp/NER/tree/master/corpus/CoNLL-2003)
   * ****`DATA`**** [NUT Named Entity Recognition in Twitter Shared task](https://github.com/aritter/twitter_nlp/tree/master/data/annotated/wnut16)
+  * ****`TOOLKIT`**** [Stanford Named Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
 ## Paraphrase Detection
   * ****`PAPER`**** [Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7199&rep=rep1&type=pdf)
@@ -148,10 +183,12 @@ by Kyubyong
   * ****`WIKI`**** [Parsing](https://en.wikipedia.org/wiki/Parsing)
   * ****`TOOLKIT`**** [The Stanford Parser: A statistical parser](https://nlp.stanford.edu/software/lex-parser.shtml)
   * ****`TOOLKIT`**** [spaCy parser](https://spacy.io/docs/usage/dependency-parse)
+  * ****`PAPER`**** [Grammar as a Foreign Language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf)
   * ****`PAPER`**** [A fast and accurate dependency parser using neural networks](http://www.aclweb.org/anthology/D14-1082)
+  * ****`PAPER`**** [Universal Semantic Parsing](https://aclanthology.info/pdf/D/D17/D17-1009.pdf)
   * ****`CHALLENGE`**** [CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies](http://universaldependencies.org/conll17/)
   * ****`CHALLENGE`**** [CoNLL 2016 Shared Task: Multilingual Shallow Discourse Parsing](http://www.cs.brandeis.edu/~clp/conll16st/)
-  * ****`CHALLENGE`**** [ CoNLL 2015 Shared Task: Shallow Discourse Parsing ](http://www.cs.brandeis.edu/~clp/conll15st/)
+  * ****`CHALLENGE`**** [CoNLL 2015 Shared Task: Shallow Discourse Parsing](http://www.cs.brandeis.edu/~clp/conll15st/)
   * ****`CHALLENGE`**** [SemEval-2016 Task 8: The meaning representations may be abstract, but this task is concrete!](http://alt.qcri.org/semeval2016/task8/)
 
 ## Part-of-speech Tagging
@@ -181,14 +218,15 @@ by Kyubyong
   * ****`DATA`**** [GraphQuestions: A Characteristic-rich Question Answering Dataset](https://github.com/ysu1989/GraphQuestions)
   * ****`DATA`**** [Story Cloze Test and ROCStories Corpora](http://cs.rochester.edu/nlp/rocstories/)
   * ****`DATA`**** [Microsoft Research WikiQA Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
-  * ****`DATA`**** [DeepMind Q&A Dataset ](http://cs.nyu.edu/%7Ekcho/DMQA/)
+  * ****`DATA`**** [DeepMind Q&A Dataset](http://cs.nyu.edu/%7Ekcho/DMQA/)
   * ****`DATA`**** [QASent](http://cs.stanford.edu/people/mengqiu/data/qg-emnlp07-data.tgz)
+  * ****`DATA`**** [Textbook Question Answering](http://textbookqa.org/)
 
 ## Relationship Extraction
   * ****`WIKI`**** [Relationship extraction](https://en.wikipedia.org/wiki/Relationship_extraction)
   * ****`PAPER`**** [A deep learning approach for relationship extraction from interaction context in social manufacturing paradigm](http://www.sciencedirect.com/science/article/pii/S0950705116001210)
   * ****`CHALLENGE`**** [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers (In Progress)](https://competitions.codalab.org/competitions/17422)
-  
+
 ## Semantic Role Labeling
   * ****`WIKI`**** [Semantic role labeling](https://en.wikipedia.org/wiki/Semantic_role_labeling)
   * ****`BOOK`**** [Semantic Role Labeling](https://www.amazon.com/Semantic-Labeling-Synthesis-Lectures-Technologies/dp/1598298313/ref=sr_1_1?s=books&ie=UTF8&qid=1507776173&sr=1-1&keywords=Semantic+Role+Labeling)
@@ -213,7 +251,8 @@ by Kyubyong
   * ****`CHALLENGE`**** [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11#description)
   * ****`CHALLENGE`**** [SemEval-2017 Task 4: Sentiment Analysis in Twitter](http://alt.qcri.org/semeval2017/task4/)
   * ****`CHALLENGE`**** [SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News](http://alt.qcri.org/semeval2017/task5/)
-  * ****`PROJECT`**** [SenticNet ](http://sentic.net/about/)
+  * ****`PROJECT`**** [SenticNet](http://sentic.net/about/)
+  * ****`PROJECT`**** [Stanford NLP Group Sentiment Analysis](https://nlp.stanford.edu/sentiment/)
   * ****`DATA`**** [Multi-Domain Sentiment Dataset (version 2.0)](http://www.cs.jhu.edu/%7Emdredze/datasets/sentiment/)
   * ****`DATA`**** [Stanford Sentiment Treebank](https://nlp.stanford.edu/sentiment/code.html)
   * ****`DATA`**** [Twitter Sentiment Corpus](http://www.sananalytics.com/lab/twitter-sentiment/)
@@ -225,6 +264,12 @@ by Kyubyong
   * ****`PAPER`**** [A Neural Parametric Singing Synthesizer](https://arxiv.org/abs/1704.03809)  
   * ****`PRODUCT`**** [VOCALOID: voice synthesis technology and software developed by Yamaha](https://www.vocaloid.com/en)
   * ****`CHALLENGE`**** [Special Session Interspeech 2016 Singing synthesis challenge "Fill-in the Gap"](https://chanter.limsi.fr/doku.php?id=description:start)
+
+## Social Science Applications
+  * ****`WORKSHOP`**** [NLP+CSS: Workshops on Natural Language Processing and Computational Social Science](https://sites.google.com/site/nlpandcss/)
+  * ****`TOOLKIT`**** [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://github.com/uclanlp/reducingbias)  
+  * ****`TOOLKIT`**** [Online Variational Bayes for Latent Dirichlet Allocation (LDA)](https://github.com/blei-lab/onlineldavb)
+  * ****`GROUP`**** [The University of Chicago Knowledge Lab](http://www.knowledgelab.org/)
 
 ## Source Separation
   * ****`WIKI`**** [Source separation](https://en.wikipedia.org/wiki/Source_separation)
@@ -241,7 +286,7 @@ by Kyubyong
   * ****`PAPER`**** [DNN-based speaker clustering for speaker diarisation](http://eprints.whiterose.ac.uk/109281/1/milner_is16.pdf)
   * ****`PAPER`**** [Unsupervised Methods for Speaker Diarization: An Integrated and Iterative Approach](http://groups.csail.mit.edu/sls/publications/2013/Shum_IEEE_Oct-2013.pdf)
   * ****`PAPER`**** [Audio-Visual Speaker Diarization Based on Spatiotemporal Bayesian Fusion](https://arxiv.org/pdf/1603.09725.pdf)
-  * ****`CHALLENGE`**** [Rich Transcription Evaluation ](https://www.nist.gov/itl/iad/mig/rich-transcription-evaluation)
+  * ****`CHALLENGE`**** [Rich Transcription Evaluation](https://www.nist.gov/itl/iad/mig/rich-transcription-evaluation)
 
 ## Speaker Recognition
   * ****`WIKI`**** [Speaker recognition](https://en.wikipedia.org/wiki/Speaker_recognition)
@@ -258,7 +303,7 @@ by Kyubyong
 
 ## Speech Segmentation
   * ****`WIKI`**** [Speech_segmentation](https://en.wikipedia.org/wiki/Speech_segmentation)
-  * ****`PAPER`**** [ Word Segmentation by 8-Month-Olds: When Speech Cues Count More Than Statistics](http://www.utm.toronto.edu/infant-child-centre/sites/files/infant-child-centre/public/shared/elizabeth-johnson/Johnson_Jusczyk.pdf)
+  * ****`PAPER`**** [Word Segmentation by 8-Month-Olds: When Speech Cues Count More Than Statistics](http://www.utm.toronto.edu/infant-child-centre/sites/files/infant-child-centre/public/shared/elizabeth-johnson/Johnson_Jusczyk.pdf)
   * ****`PAPER`**** [Unsupervised Word Segmentation and Lexicon Discovery Using Acoustic Word Embeddings](https://arxiv.org/abs/1603.02845)
   * ****`PAPER`**** [Unsupervised Lexicon Discovery from Acoustic Input](http://www.aclweb.org/old_anthology/Q/Q15/Q15-1028.pdf)
   * ****`PAPER`**** [Weakly supervised spoken term discovery using cross-lingual side information](http://www.research.ed.ac.uk/portal/files/29957958/1609.06530v1.pdf)
@@ -292,7 +337,7 @@ by Kyubyong
 
 ## Stemming
   * ****`WIKI`**** [Stemming](https://en.wikipedia.org/wiki/Stemming)
-  * ****`PAPER`**** [A BACKPROPAGATION NEURAL NETWORK TO IMPROVE  ARABIC STEMMING  ](http://www.jatit.org/volumes/Vol82No3/7Vol82No3.pdf)
+  * ****`PAPER`**** [A BACKPROPAGATION NEURAL NETWORK TO IMPROVE  ARABIC STEMMING](http://www.jatit.org/volumes/Vol82No3/7Vol82No3.pdf)
   * ****`TOOLKIT`**** [NLTK Stemmers](http://www.nltk.org/howto/stem.html)
 
 ## Term Extraction
@@ -303,9 +348,11 @@ by Kyubyong
   * ****`WIKI`**** [Semantic similarity](https://en.wikipedia.org/wiki/Semantic_similarity)
   * ****`PAPER`**** [A Survey of Text Similarity Approaches](https://pdfs.semanticscholar.org/5b5c/a878c534aee3882a038ef9e82f46e102131b.pdf)
   * ****`PAPER`**** [Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks](http://casa.disi.unitn.it/~moschitt/since2013/2015_SIGIR_Severyn_LearningRankShort.pdf)
+  * ****`PAPER`**** [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://nlp.stanford.edu/pubs/tai-socher-manning-acl2015.pdf)
   * ****`CHALLENGE`**** [SemEval-2014 Task 3: Cross-Level Semantic Similarity](http://alt.qcri.org/semeval2014/task3/)
   * ****`CHALLENGE`**** [SemEval-2014 Task 10: Multilingual Semantic Textual Similarity](http://alt.qcri.org/semeval2014/task10/)
-  * ****`CHALLENGE`**** [SemEval-2016 Task 1: Semantic Textual Similarity: A Unified Framework for Semantic Processing and Evaluation](http://alt.qcri.org/semeval2016/task1/)
+  * ****`CHALLENGE`**** [SemEval-2017 Task 1: Semantic Textual Similarity](http://alt.qcri.org/semeval2017/task1/)
+  * ****`WIKI`**** [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
   
 ## Text Simplification
   * ****`WIKI`**** [Text simplification](https://en.wikipedia.org/wiki/Text_simplification)
@@ -341,7 +388,7 @@ by Kyubyong
 ## Voice Recognition
   * See [Speaker recognition](#speaker-recognition)
 
-## Word Embedding
+## Word Embeddings
   * ****`WIKI`**** [Word embedding](https://en.wikipedia.org/wiki/Word_embedding)
   * ****`TOOLKIT`**** [Gensim: word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
   * ****`TOOLKIT`**** [fastText](https://github.com/facebookresearch/fastText)
@@ -350,7 +397,9 @@ by Kyubyong
   * ****`PROJECT`**** [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
   * ****`PROJECT`**** [Polyglot: Distributed word representations for multilingual NLP](https://sites.google.com/site/rmyeid/projects/polyglot)
   * ****`CHALLENGE`**** [SemEval 2018 Task 10 Capturing Discriminative Attributes (In Progress)](https://competitions.codalab.org/competitions/17326)
-  
+  * ****`PAPER`**** [Bilingual Word Embeddings for Phrase-Based Machine Translation](https://ai.stanford.edu/~wzou/emnlp2013_ZouSocherCerManning.pdf)
+  * ****`PAPER`**** [A Survey of Cross-Lingual Embedding Models](https://arxiv.org/abs/1706.04902)
+
 ## Word Prediction
   * ****`INFO`**** [What is Word Prediction?](http://www2.edc.org/ncip/library/wp/what_is.htm)
   * ****`PAPER`**** [The prediction of character based on recurrent neural network language model](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7960065)
