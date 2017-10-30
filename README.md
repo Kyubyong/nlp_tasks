@@ -176,8 +176,11 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   
 ## Paraphrase Generation  
 * ****`PAPER`**** [Neural Paraphrase Generation with Stacked Residual LSTM Networks](https://arxiv.org/pdf/1610.03098.pdf)
+* ****`DATA`**** [Neural Paraphrase Generation with Stacked Residual LSTM Networks](https://github.com/iamaaditya/neural-paraphrase-generation/tree/master/data)
+* ****`CODE`**** [Neural Paraphrase Generation with Stacked Residual LSTM Networks](https://github.com/iamaaditya/neural-paraphrase-generation)
 * ****`PAPER`**** [A Deep Generative Framework for Paraphrase Generation](https://arxiv.org/pdf/1709.05074.pdf)
 * ****`PAPER`**** [Paraphrasing Revisited with Neural Machine Translation](http://www.research.ed.ac.uk/portal/files/34902784/document.pdf)
+
 
 ## Parsing
   * ****`WIKI`**** [Parsing](https://en.wikipedia.org/wiki/Parsing)
