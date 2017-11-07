@@ -30,6 +30,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`DATA`**** [LibriSpeech ASR corpus](http://www.openslr.org/12/)
   * ****`DATA`**** [Switchboard-1 Telephone Speech Corpus](https://catalog.ldc.upenn.edu/ldc97s62)
   * ****`DATA`**** [TED-LIUM Corpus](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)
+  * ****`DATA`**** [Open Speech and Language Resources](http://www.openslr.org/)
 
 ## Automatic Summarisation
   * ****`WIKI`**** [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
