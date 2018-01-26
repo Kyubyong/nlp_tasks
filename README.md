@@ -265,7 +265,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
 
 ## Singing Voice Synthesis
   * ****`PAPER`**** [Singing voice synthesis based on deep neural networks](https://pdfs.semanticscholar.org/9a8e/b69480eead85f32ee4b92fa2563dd5f83401.pdf)
-  * ****`PAPER`**** [A Neural Parametric Singing Synthesizer](https://arxiv.org/abs/1704.03809)  
+  * ****`PAPER`**** [A Neural Parametric Singing Synthesizer Modeling Timbre and Expression from Natural Songs](http://www.mdpi.com/2076-3417/7/12/1313)  
   * ****`PRODUCT`**** [VOCALOID: voice synthesis technology and software developed by Yamaha](https://www.vocaloid.com/en)
   * ****`CHALLENGE`**** [Special Session Interspeech 2016 Singing synthesis challenge "Fill-in the Gap"](https://chanter.limsi.fr/doku.php?id=description:start)
 
@@ -315,9 +315,11 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
 
 ## Speech Synthesis
   * ****`WIKI`**** [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
+  * ****`PAPER`**** [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884)
   * ****`PAPER`**** [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499)
   * ****`PAPER`**** [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135)
-  * ****`PAPER`**** [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947)
+  * ****`PAPER`**** [Deep Voice 3: 2000-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1710.07654)
+  * ****`PAPER`**** [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention](https://arxiv.org/abs/1710.08969)  
   * ****`DATA`**** [The World English Bible](https://github.com/Kyubyong/tacotron)
   * ****`DATA`**** [LJ Speech Dataset](https://github.com/keithito/tacotron)
   * ****`DATA`**** [Lessac Data](http://www.cstr.ed.ac.uk/projects/blizzard/2011/lessac_blizzard2011/)
