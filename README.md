@@ -385,6 +385,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   
 ## Voice Conversion
   * ****`PAPER`**** [PHONETIC POSTERIORGRAMS FOR MANY-TO-ONE VOICE CONVERSION WITHOUT PARALLEL DATA TRAINING](http://www1.se.cuhk.edu.hk/~hccl/publications/pub/2016_paper_297.pdf)
+  * ****`PROJECT`**** [Deep neural networks for voice conversion (voice style transfer) in Tensorflow](https://github.com/andabi/deep-voice-conversion)
   * ****`PROJECT`**** [An implementation of voice conversion system utilizing phonetic posteriorgrams](https://github.com/sesenosannko/ppg_vc)
   * ****`CHALLENGE`**** [Voice Conversion Challenge 2016](http://www.vc-challenge.org/vcc2016/index.html)
   * ****`CHALLENGE`**** [Voice Conversion Challenge 2018](http://www.vc-challenge.org/)
