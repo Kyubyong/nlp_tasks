@@ -31,6 +31,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`DATA`**** [Switchboard-1 Telephone Speech Corpus](https://catalog.ldc.upenn.edu/ldc97s62)
   * ****`DATA`**** [TED-LIUM Corpus](http://www-lium.univ-lemans.fr/en/content/ted-lium-corpus)
   * ****`DATA`**** [Open Speech and Language Resources](http://www.openslr.org/)
+  * ****`DATA`**** [Common Voice](https://voice.mozilla.org/en/data)
 
 ## Automatic Summarisation
   * ****`WIKI`**** [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
@@ -46,7 +47,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`PAPER`**** [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://arxiv.org/abs/1606.01323)
   * ****`CHALLENGE`**** [CoNLL 2012 Shared Task: Modeling Multilingual Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2012/task-description.html)
   * ****`CHALLENGE`**** [CoNLL 2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes](http://conll.cemantix.org/2011/task-description.html)
-  * ****`CHALLENGE`**** [SemEval 2018 Task 4: Character Identification on Multiparty Dialogues (In Progress)](https://competitions.codalab.org/competitions/17310)
+  * ****`CHALLENGE`**** [SemEval 2018 Task 4: Character Identification on Multiparty Dialogues](https://competitions.codalab.org/competitions/17310)
   
 ## Entity Linking
   * See [Named Entity Disambiguation](#named-entity-disambiguation)
@@ -123,6 +124,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`PAPER`**** [3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition](https://arxiv.org/abs/1706.05739)
   * ****`PROJECT`**** [Lip Reading - Cross Audio-Visual Recognition using 3D Convolutional Neural Networks](https://github.com/astorfi/lip-reading-deeplearning)
   * ****`DATA`**** [The GRID audiovisual sentence corpus](http://spandh.dcs.shef.ac.uk/gridcorpus/)
+  * ****`DATA`**** [The BBC-Oxford 'Multi-View Lip Reading Sentences' (MV-LRS) Dataset](http://www.robots.ox.ac.uk/~vgg/data/lip_reading_sentences/)
 
 ## Machine Translation
   * ****`PAPER`**** [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -215,7 +217,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`CHALLENGE`**** [NTCIR-8: Advanced Cross-lingual Information Access (ACLIA)](http://aclia.lti.cs.cmu.edu/ntcir8/Home)
   * ****`CHALLENGE`**** [CLEF Question Answering Track](http://nlp.uned.es/clef-qa/)
   * ****`CHALLENGE`**** [SemEval-2017 Task 3: Community Question Answering](http://alt.qcri.org/semeval2017/task3/)
-  * ****`CHALLENGE`**** [SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge (In Progress)](https://competitions.codalab.org/competitions/17184)
+  * ****`CHALLENGE`**** [SemEval-2018 Task 11: Machine Comprehension using Commonsense Knowledge](https://competitions.codalab.org/competitions/17184)
   * ****`DATA`**** [MS MARCO: Microsoft MAchine Reading COmprehension Dataset](http://www.msmarco.org/)
   * ****`DATA`**** [Maluuba NewsQA](https://github.com/Maluuba/newsqa)
   * ****`DATA`**** [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://rajpurkar.github.io/SQuAD-explorer/)
@@ -229,7 +231,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
 ## Relationship Extraction
   * ****`WIKI`**** [Relationship extraction](https://en.wikipedia.org/wiki/Relationship_extraction)
   * ****`PAPER`**** [A deep learning approach for relationship extraction from interaction context in social manufacturing paradigm](http://www.sciencedirect.com/science/article/pii/S0950705116001210)
-  * ****`CHALLENGE`**** [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers (In Progress)](https://competitions.codalab.org/competitions/17422)
+  * ****`CHALLENGE`**** [SemEval-2018 task 7 Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422)
 
 ## Semantic Role Labeling
   * ****`WIKI`**** [Semantic role labeling](https://en.wikipedia.org/wiki/Semantic_role_labeling)
@@ -298,6 +300,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`PAPER`**** [DEEP NEURAL NETWORKS FOR SMALL FOOTPRINT TEXT-DEPENDENT SPEAKER VERIFICATION](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41939.pdf)
   * ****`CHALLENGE`**** [NIST Speaker Recognition Evaluation (SRE)](https://www.nist.gov/itl/iad/mig/speaker-recognition)
   * ****`INFO`**** [Are there any suggestions for free databases for speaker recognition?](https://www.researchgate.net/post/Are_there_any_suggestions_for_free_databases_for_speaker_recognition)
+  * ****`DATA`**** [VoxCeleb2: Deep Speaker Recognition](http://www.robots.ox.ac.uk/~vgg/data/voxceleb2/)
 
 ## Speech Reading
   * See [Lip-reading](#lip-reading)
@@ -401,9 +404,11 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`TOOLKIT`**** [fastText](https://github.com/facebookresearch/fastText)
   * ****`TOOLKIT`**** [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
   * ****`INFO`**** [Where to get a pretrained model](https://github.com/3Top/word2vec-api)
+  * ****`PROJECT`**** [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
   * ****`PROJECT`**** [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
   * ****`PROJECT`**** [Polyglot: Distributed word representations for multilingual NLP](https://sites.google.com/site/rmyeid/projects/polyglot)
-  * ****`CHALLENGE`**** [SemEval 2018 Task 10 Capturing Discriminative Attributes (In Progress)](https://competitions.codalab.org/competitions/17326)
+  * ****`PROJECT`**** [BPEmb: a collection of pre-trained subword embeddings in 275 languages](https://github.com/bheinzerling/bpemb)
+  * ****`CHALLENGE`**** [SemEval 2018 Task 10 Capturing Discriminative Attributes](https://competitions.codalab.org/competitions/17326)
   * ****`PAPER`**** [Bilingual Word Embeddings for Phrase-Based Machine Translation](https://ai.stanford.edu/~wzou/emnlp2013_ZouSocherCerManning.pdf)
   * ****`PAPER`**** [A Survey of Cross-Lingual Embedding Models](https://arxiv.org/abs/1706.04902)
 
@@ -414,7 +419,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`PAPER`**** [Evaluating Word Prediction: Framing Keystroke Savings](http://aclweb.org/anthology/P08-2066)
   * ****`DATA`**** [An Embedded Deep Learning based Word Prediction](https://github.com/Meinwerk/WordPrediction/master.zip)
   * ****`PROJECT`**** [Word Prediction using Convolutional Neural Networks—can you do better than iPhone™ Keyboard?](https://github.com/Kyubyong/word_prediction)
-  * ****`CHALLENGE`**** [SemEval-2018 Task 2, Multilingual Emoji Prediction (In Progress)](https://competitions.codalab.org/competitions/17344)
+  * ****`CHALLENGE`**** [SemEval-2018 Task 2, Multilingual Emoji Prediction](https://competitions.codalab.org/competitions/17344)
 
 ## Word Segmentation
   * ****`WIKI`**** [Word segmentation](https://en.wikipedia.org/wiki/Text_segmentation#Segmentation_problems)
