@@ -298,6 +298,8 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`WIKI`**** [Speaker recognition](https://en.wikipedia.org/wiki/Speaker_recognition)
   * ****`PAPER`**** [A NOVEL SCHEME FOR SPEAKER RECOGNITION USING A PHONETICALLY-AWARE DEEP NEURAL NETWORK](https://pdfs.semanticscholar.org/204a/ff8e21791c0a4113a3f75d0e6424a003c321.pdf)
   * ****`PAPER`**** [DEEP NEURAL NETWORKS FOR SMALL FOOTPRINT TEXT-DEPENDENT SPEAKER VERIFICATION](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41939.pdf)
+  * ****`PAPER`**** [Deep Speaker: an End-to-End Neural Speaker Embedding System](https://arxiv.org/abs/1705.02304)
+  * ****`PROJECT`**** [Voice Vector: which of the Hollywood stars is most similar to my voice?](https://github.com/andabi/voice-vector)
   * ****`CHALLENGE`**** [NIST Speaker Recognition Evaluation (SRE)](https://www.nist.gov/itl/iad/mig/speaker-recognition)
   * ****`INFO`**** [Are there any suggestions for free databases for speaker recognition?](https://www.researchgate.net/post/Are_there_any_suggestions_for_free_databases_for_speaker_recognition)
   * ****`DATA`**** [VoxCeleb2: Deep Speaker Recognition](http://www.robots.ox.ac.uk/~vgg/data/voxceleb2/)
