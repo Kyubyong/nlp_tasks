@@ -265,6 +265,12 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`DATA`**** [Twitter Sentiment Analysis Training Corpus](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/)
   * ****`DATA`**** [AFINN: List of English words rated for valence](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 
+## Sign Language Recognition
+  * ****`PAPER`**** [Video-based Sign Language Recognition without Temporal Segmentation](https://arxiv.org/pdf/1801.10111.pdf)
+  * ****`PAPER`**** [SubUNets: End-to-end Hand Shape and Continuous Sign Language Recognition](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf)  
+  * ****`DATA`**** [RWTH-PHOENIX-Weather](https://www-i6.informatik.rwth-aachen.de/~forster/database-rwth-phoenix.php)
+  * ****`DATA`**** [ASLLRP](http://www.bu.edu/asllrp/)
+
 ## Singing Voice Synthesis
   * ****`PAPER`**** [Singing voice synthesis based on deep neural networks](https://pdfs.semanticscholar.org/9a8e/b69480eead85f32ee4b92fa2563dd5f83401.pdf)
   * ****`PAPER`**** [A Neural Parametric Singing Synthesizer Modeling Timbre and Expression from Natural Songs](http://www.mdpi.com/2076-3417/7/12/1313)  
