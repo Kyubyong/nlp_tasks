@@ -53,6 +53,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * See [Named Entity Disambiguation](#named-entity-disambiguation)
 
 ## Grammatical Error Correction
+  * ****`PAPER`**** [A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction](https://arxiv.org/abs/1801.08831)
   * ****`PAPER`**** [Neural Network Translation Models for Grammatical Error Correction](https://arxiv.org/abs/1606.00189)
   * ****`PAPER`**** [Adapting Sequence Models for Sentence Correction](http://aclweb.org/anthology/D17-1297)
   * ****`CHALLENGE`**** [CoNLL-2013 Shared Task: Grammatical Error Correction](http://www.comp.nus.edu.sg/~nlp/conll13st.html)
