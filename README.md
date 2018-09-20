@@ -135,6 +135,7 @@ Reviewed and updated by [YJ Choe](https://github.com/yjchoe) on Oct. 18, 2017.
   * ****`PAPER`**** [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099)
   * ****`PAPER`**** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   * ****`PAPER`**** [Six Challenges for Neural Machine Translation](http://aclweb.org/anthology/W/W17/W17-3204.pdf)
+  * ****`PAPER`**** [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755)  
   * ****`CHALLENGE`**** [ACL 2014 NINTH WORKSHOP ON STATISTICAL MACHINE TRANSLATION](http://www.statmt.org/wmt14/translation-task.html#download)
   * ****`CHALLENGE`**** [EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17) ](http://www.statmt.org/wmt17/translation-task.html)
   * ****`DATA`**** [OpenSubtitles2016](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
